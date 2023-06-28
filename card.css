@@ -1,0 +1,41 @@
+#container{
+    width: 400px;
+    height: 715px;
+    display: flex;
+    gap: 40px;
+}
+.card{
+    border: 2px solid grey;
+    border-radius: 19px;
+}
+.content{
+    padding: 5%;
+}
+#sub1{
+    background-color: blueviolet;
+    color: white;
+    display: inline-block;    
+    border-radius: 12px;
+    padding: 10px;
+}
+.para1{
+    color: grey;
+}
+.footer{
+    display: flex;
+}
+.footer img{
+    width: 100px;
+    border-radius: 80%;
+    border: 0px;
+    margin-left: 5%;
+    gap: 10px;
+    display: flex;
+ }
+ .name{
+    margin-left: 5%;
+    color: grey;
+ }
+ .name1{
+    color: black;
+ }
